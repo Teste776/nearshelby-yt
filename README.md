@@ -22,7 +22,7 @@
 <hr>
 <center>
 <h2>Ola, bem vindo ao meu perfil 👋</h2>
-<h3>Meu nome é Near Shelby, móro no Brasil 🇧🇷 e gosto de programar, Minha linguagem de programação preferida é Python 🐍.</h3>
+<h3>Meu nome é Near Shelby, moro no Brasil 🇧🇷 e gosto de programar, Minha linguagem de programação preferida é Python 🐍.</h3>
 <hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nearshelby-yt&langs_count=999">
