@@ -25,8 +25,9 @@
 <h3>Meu nome é Near Shelby, móro no Brasil 🇧🇷 e gosto de programar, Minha linguagem de programação preferida é Python 🐍.</h3>
 <hr>
   
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nearshelby-yt&hide_border=true&layout=compact" align="center" /></div>  
-  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nearshelby-yt&langs_count=999">
+</p>
+
 </center>
 <hr>
