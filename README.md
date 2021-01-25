@@ -18,9 +18,5 @@
 <center>
 <h2>Ola, bem vindo ao meu perfil 👋</h2>
 <h3>Meu nome é Near Shelby, móro no Brasil 🇧🇷 e gosto de programar, Minha linguagem de programação preferida é Python 🐍.</h3>
-<hr>
-<div align="center" width="50">
-<img src="https://giphy.com/gifs/artefr-tom-hardy-arte-l0HTZxNfHrANIlIfS" width="600"/>
-</div>
 </center>
 <hr>
