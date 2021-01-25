@@ -26,6 +26,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nearshelby-yt&hide_border=true&layout=compact" align="center" /></div>  
 
-
+<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCYx02EM3e2h2Nbn2OwJ9voQ" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+  
 </center>
 <hr>
